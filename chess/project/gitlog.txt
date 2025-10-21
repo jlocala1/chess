@@ -1,0 +1,539 @@
+commit 81dc1e8bb2229942d9d8bcdffe2d9c8dfa2ca1ad
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 20:46:23 2024 -0400
+
+    More stylistic edits in Game
+
+commit fcb78f29637c9f80d4fd7c8a91780c4523202222
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 20:28:35 2024 -0400
+
+    Fixed path_clear function and improved style
+
+commit de99f31402e89d7ff95eb087997972172f94f903
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 19:42:12 2024 -0400
+
+    submitted to gradescope, passed al
+
+commit 303b7b81749582b11f0f04f8fe35fd122b831013
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 19:39:14 2024 -0400
+
+    add virtual function for mystery piece to work
+
+commit 4d252c151aa885cb794e2a7f9cfd31cf7c5e25a8
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 19:38:43 2024 -0400
+
+    fixing header files and point value function to include mystery piece
+
+commit cfe4003460b069e6942adfa23749c1bd09d31975
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 18:27:25 2024 -0400
+
+    objects
+
+commit b28735136f6a76bad1413fb29ff75e5a759ae4b6
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 18:20:50 2024 -0400
+
+    Fixing style issues with in_check and in_mate
+
+commit 3ccc4d71df86a5488ee798b5a3c9f5320ca1b3e2
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 18:20:55 2024 -0400
+
+    project with adjusted board functionality
+
+commit 78e6a2e64e4f49b7d36c4b689a5af1ee2aad1907
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 18:11:20 2024 -0400
+
+    zip file with updated pieces
+
+commit 1b85239a8ba57ec1d9254a9080b6bae6a38c48d6
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 18:08:30 2024 -0400
+
+    fixed teh logic of the pieces and added thourough commentation
+
+commit 5284f2fe3b61db01e231df50e0e761b3a04e422a
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 17:26:54 2024 -0400
+
+    board updated and prints out with rows and columns labeled
+
+commit 30ef01cabe24bd2ff512bed79e0e070175bf7b4a
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 17:13:56 2024 -0400
+
+    restoring submit version:
+
+commit 4a401b222768de1879397aa6bb833eaf1c8245eb
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 16:56:48 2024 -0400
+
+    Adding names to working version
+
+commit ae8a2d420bda40182305bad03a957e22badc35ee
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 16:46:22 2024 -0400
+
+    Adjusted game
+
+commit 8b22b2d3b1295424e81978656ae756a6a367b3bb
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 16:51:15 2024 -0400
+
+    working version that passes
+
+commit a47e85fc68d8a3c18eff44deebc9c6b24f85d772
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 16:39:10 2024 -0400
+
+    tracking files
+
+commit cf204e2b1f54bf5361a5e96ef45ea8c17b05a7f0
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 16:41:32 2024 -0400
+
+    working version
+
+commit f1fc8538e6e336a45f5ce0145bfeeda69cff6d24
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 12:48:32 2024 -0400
+
+    Restoring previous version
+
+commit cff2ec244b7244d06878667261b7221c83f79eeb
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 12:32:14 2024 -0400
+
+    styles update
+
+commit dc31167dcb1294879dc5f776cdca7be3281d7a76
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Fri Apr 26 12:30:26 2024 -0400
+
+    trying to fix exception issues
+
+commit 3e2864dce64258d6422e36a2afc929534eef020f
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 11:28:04 2024 -0400
+
+    deleting all of the unnessecary .o files
+
+commit e9d8b679395ed429e084a06ba2a57d5d5d901372
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 11:26:34 2024 -0400
+
+    gitlog
+
+commit d962cc50f11b6ff9a8a1a95b305ab8e40975495e
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 10:37:25 2024 -0400
+
+    zip file with updated functions and gitlog
+
+commit 11c36e9bcfbcfd10757d185da3c314035e98d40a
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 10:33:13 2024 -0400
+
+    finished README
+
+commit f73e5187941a15ac90e0b1b3bc6f398127781707
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 07:46:52 2024 -0400
+
+    added a few more comments
+
+commit 6982d5bf1e54520ae6b1c01294934971cac91d43
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 07:43:26 2024 -0400
+
+    everything works now(including teh valgrind errors). All that is left is the UML diagram, some style checks,ecks, and the README file
+
+commit 089b486928291cba57ee1fcb157f60b4efdd432a
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 03:31:45 2024 -0400
+
+    zip
+
+commit 255f8a07dfd9887dde4393930ae37c13c73c79ae
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 01:39:32 2024 -0400
+
+    zip
+
+commit 2621e3e8b729537b43e25f0c1f2fafe64fedb8c5
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 01:37:44 2024 -0400
+
+    zip
+
+commit 1e90435b8a00aa9b3774a1c2360657bcc5136ffc
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 01:35:53 2024 -0400
+
+    zip
+
+commit ccde675a8f6e8ed626bd977481cb8c9537330edb
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 01:32:28 2024 -0400
+
+    test zip
+
+commit b228d338aeee142c86abddb9e4dc0f53b19f8029
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 26 01:26:41 2024 -0400
+
+    test zip file
+
+commit 4c2fff9929aea7857f7112bc65089e9c696e41b1
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Thu Apr 25 21:05:48 2024 -0400
+
+    created a promotion feature in make_move
+
+commit 55c8f163cd12c894f13ee1f11a439bc6c823b996
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Thu Apr 25 20:18:49 2024 -0400
+
+    general update
+
+commit 45152a6c7973eeb891d2e7f2fb01d4002d11952f
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Thu Apr 25 20:18:24 2024 -0400
+
+    some of checkmate works but check does not for some extraneous cases
+
+commit e57faba4982cf1ea8f2f869711f5da60c04e79d1
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Thu Apr 25 18:38:57 2024 -0400
+
+    the logic for stalemate works when you load the test file
+
+commit 5c39cb882a64a445b958a344c2ebad2c688fe8b6
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Thu Apr 25 12:03:29 2024 -0400
+
+    Fixed make_move function so pieces don't dissapear when capturing, changed remove_piece function as well
+
+commit 4e88d9eb52c8e42156129f51d8bd2cc6a3f937f1
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Thu Apr 25 11:38:12 2024 -0400
+
+    Fixed pawn movement logic (enabled diagonal capture of pieces)
+
+commit 51f4cd75903b8806ddd666a4bcdd57aae6cb73fa
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Thu Apr 25 11:12:52 2024 -0400
+
+    Fixed issues with path_clear function and the knight piece, fixed some exception calls, this is a temporary version to revert to before modifying make_move
+
+commit 9f68d3060c3cc04131d5702662c20f45cfd5c79e
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Thu Apr 25 01:16:50 2024 -0400
+
+    Fixed istream to correctly load games based on text files, still need to fix logic for mate/checkmate/stalemate
+
+commit 9afb97f1dbab23773944572056c088bb905f8951
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Thu Apr 25 00:57:36 2024 -0400
+
+    fixing istream
+
+commit 0169310eb34c278a4bd54f60e22b75c9937dd6f3
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Thu Apr 25 00:57:06 2024 -0400
+
+    board.h file with erase
+
+commit 555a89bc1f225d45248441753d26b06e1e06c9a4
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Thu Apr 25 00:50:02 2024 -0400
+
+    changed ifs function: does not work
+
+commit e362ec0099acb381e1a4eb2659de0a3b103fa7b9
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Wed Apr 24 21:25:20 2024 -0400
+
+    deleted old files
+
+commit 93c5cd763182105df632506eabc8b47a35aa776d
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Wed Apr 24 20:58:40 2024 -0400
+
+    added new helper function for seeing if teh path is clear
+
+commit 39ee3b03e88f4a0c101c3d317ec72b3b75b36e92
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 23:40:30 2024 -0400
+
+    Fixed the moving into check issue for real this time
+
+commit abfb836de434e76fb1bb4e493ff7353bad3dd963
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 23:39:37 2024 -0400
+
+    Fixed the moving into check issue for real this time
+
+commit 736de1c99083f5b6749132aaf925017ae6b96b5e
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 23:38:05 2024 -0400
+
+    Fixed the moving into check issue for real this time
+
+commit 72be94abaf2b1655dd5599f96cd35241f4dd04b3
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 22:09:40 2024 -0400
+
+    Fixed clear path issues for seg faults
+
+commit fe9309296a14d11c39fa796b839fd8534324fb5a
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 21:51:24 2024 -0400
+
+    trying to fix clear path function
+
+commit d2b42412ee91e26732891c328b11cdc4e8d54cf1
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Wed Apr 24 21:23:20 2024 -0400
+
+    Adding helper function for path
+
+commit 0a0dc0e4df1309bef0c0c425f6e4145ed5e377c1
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Wed Apr 24 21:16:16 2024 -0400
+
+    Added helper functions in Game.cpp to help check paths, and also check if a move exposes check
+
+commit e01562386d55a8477c311205beb5952fe73165e0
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Wed Apr 24 20:58:11 2024 -0400
+
+    changed the logic of OFS to print the board in the proper order
+
+commit b577b0387b696b54ff6d67eb6fe448fbc47acb17
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Wed Apr 24 20:57:31 2024 -0400
+
+    In game got rid of the dashes in teh print statement
+
+commit 9d279025e29796a00e2c94a650bdfb2c410637c6
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 15:05:46 2024 -0400
+
+    Fixed the auto seg fault pathway issue, but seg fault still occurs during checkmate
+
+commit 15e180faddf238f953cdfaab0f60e30450aa976d
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Wed Apr 24 10:56:08 2024 -0400
+
+    changed board colors
+
+commit 7696ac80cec77c1d48cdceebbac3e1335c75159a
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Tue Apr 23 02:19:09 2024 -0400
+
+    deleted random object files
+
+commit 87bf8664640369963d5bf8609fd42db211a286c1
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Tue Apr 23 02:17:15 2024 -0400
+
+    readme file updated with the remove piece info
+
+commit d8a4fd6362157122c344a183d4976dbad87a6645
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 24 10:55:04 2024 -0400
+
+    Fixed the black pAWN issue
+
+commit ccb152ccd9fd7d1fd8d4b8c036cba02ee78638d3
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Tue Apr 23 20:52:47 2024 -0400
+
+    Did some more exception handling stuff in Board.cpp and the make_move function in Game.cpp.  main.cpp should be able to detect the exceptions thrown.  Still need to add a couple more exceptions in make_move
+
+commit 2d0d5afc6c4888c9a38f089633ed523deeda083f
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Tue Apr 23 19:34:14 2024 -0400
+
+    Added a bit of exception stuff to main
+
+commit a71f09625fae763409bc82a5e8b22b7bcee47fd6
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Tue Apr 23 02:04:11 2024 -0400
+
+    still trying to fix the turn issue
+
+commit 4c9118c68142b529e16cd7fc4515ab22c6ed54de
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Tue Apr 23 01:46:36 2024 -0400
+
+    Fixed first turn problems, added remove piece method
+
+commit 015b99db58862e14ed4e19c5dbde613353f3cfaf
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Tue Apr 23 01:01:51 2024 -0400
+
+    Fixing pawn moves
+
+commit 36fbe0c3dd5b0cc6040a5af243b554d2fca92a2f
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Mon Apr 22 23:26:35 2024 -0400
+
+    Fixing moves
+
+commit e3996411379dc293b5aee50d9ae7351b6ad1b304
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Mon Apr 22 23:26:19 2024 -0400
+
+    Fixing moves
+
+commit 8c242c834a7184c07a5c3ec0d2d31ee9061e3d9e
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Mon Apr 22 23:14:05 2024 -0400
+
+    pulling
+
+commit 2cabd333a113c9bdb14bf52e1a7a5d340f198e07
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Mon Apr 22 23:10:14 2024 -0400
+
+    pulling
+
+commit c75af3728912c1fff48cb8b40802b8c36830ecb8
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Mon Apr 22 23:11:08 2024 -0400
+
+    removed all of the temporary files
+
+commit 6e84a8525ebce976cbc954277000fac531a97785
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Mon Apr 22 23:08:51 2024 -0400
+
+    removed exclamation mark from stalemate
+
+commit 2fb83a31096d9bef719c0617d9a5af431a898836
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Mon Apr 22 22:53:33 2024 -0400
+
+    adjusted pawn
+
+commit 03e31f4d7f5374927b80555d69fdb97c53dd1d01
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Mon Apr 22 15:31:13 2024 -0400
+
+    general update of the current state of the project folder
+
+commit fc18a7f97548ea72531a58bd531f28c3c4ecfd6a
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Mon Apr 22 10:56:26 2024 -0400
+
+    the point value for king is now 0
+
+commit 2e5dd13b08d521d0c9cb6114be8229c76441d112
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Mon Apr 22 00:10:21 2024 -0400
+
+    everything compiles. TODO: valgrind error, program never runs because there is an error in teh stalemate logic somehware, possible more debugging
+
+commit 6675f83958748f45e44d6d73088f2afc6193a439
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sun Apr 21 19:10:21 2024 -0400
+
+    changed display so that It would also display pieces
+
+commit 9d1356ce6746c9514c2064d91a720fc8ad4100e7
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Fri Apr 19 02:04:26 2024 -0400
+
+    Completed add_piece
+
+commit c8596102140f9abf8d946d7e5b2a39405ccf434d
+Author: Jonathan Locala <jlocala1@jh.edu>
+Date:   Wed Apr 17 14:54:47 2024 -0400
+
+    Board operator function
+
+commit 726bd062feb94d5ab2828e0172094eac731c4534
+Author: Radomyr <rcoutur1@jhu.edu>
+Date:   Wed Apr 17 11:04:25 2024 -0400
+
+    Created necessary additional files for pieces and the README.
+
+commit f0d9a0ec25881a36791865659ef5d04979afc535
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Tue Apr 16 00:42:04 2024 -0400
+
+    added terminal functions to teh display function
+
+commit cb28a2345e1f2cf0f1138b7f995824c278bef033
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sun Apr 14 21:24:28 2024 -0400
+
+    README for the project. TODO: add to it as we see fit
+
+commit db80eb23210dcb91c9cdf54e0890075e013538a2
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sun Apr 14 21:06:37 2024 -0400
+
+    deleting accidental files created while adding repo
+
+commit e6d2c66a5a1e24d8ca9c73c8b2d9bba436005930
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sun Apr 14 21:04:14 2024 -0400
+
+    The starter code files for the final project
+
+commit be17d1e13007eae35c521ae8e750e03f5113c8f3
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sun Apr 14 20:44:29 2024 -0400
+
+    first commit
+
+commit 1b0f312b1cabd4c7b29262a18f5f83b336a67ca4
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sun Apr 14 20:40:59 2024 -0400
+
+    first commit
+
+commit 69d7e17ad6bf2a88a4db67a9d9c13eb485c86db4
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 12 22:15:16 2024 -0400
+
+    first commit
+
+commit db232d99fc20f37e9283da5f327949daa697e2fb
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 12 22:11:38 2024 -0400
+
+    first commit
+
+commit d4bb14b52336da48ecdeb884c5e200663db0c7be
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 12 22:10:40 2024 -0400
+
+    first commit
+
+commit 5bb369f63be4d8d8ad0ce83eab360c33795bc1fd
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Fri Apr 12 08:59:20 2024 -0400
+
+    general updated of the git repo
+
+commit 48682c6d7c6cabfdb74cf7dd7b7fda53fce1fb95
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sat Mar 2 21:02:44 2024 -0500
+
+    first commit
+
+commit b45cc2e9af42760ef19a00c5645c4ab3d6aaeb1d
+Author: ElysaPulliam <epullia1@jh.edu>
+Date:   Sat Mar 2 21:00:05 2024 -0500
+
+    first commit
